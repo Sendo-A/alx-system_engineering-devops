@@ -1,2 +1,2 @@
-#!/bin/bash
-0 string SCHOOL School found !:mime text/School
+0	string SCHOOL school word contained file
+!:mime text/school
