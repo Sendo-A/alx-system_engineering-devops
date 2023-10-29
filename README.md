@@ -3,11 +3,11 @@
 ![Shell_Scripting](https://i.ytimg.com/vi/F-TtA8GnKr8/maxresdefault.jpg)
 
 ## Table of Contents
-- [Shell Navigation](#https://github.com/Sendo-A/alx-system_engineering-devops/tree/master/0x00-shell_basics)
-- [Permissions](#https://github.com/Sendo-A/alx-system_engineering-devops/tree/master/0x01-shell_permissions)
-- [Redirections](#https://github.com/Sendo-A/alx-system_engineering-devops/tree/master/0x02-shell_redirections)
-- [Filters](#https://github.com/Sendo-A/alx-system_engineering-devops/tree/master/0x02-shell_redirections)
-- [Variable Expansion](#https://github.com/Sendo-A/alx-system_engineering-devops/tree/master/0x03-shell_variables_expansions)
+- [Shell Navigation](https://github.com/Sendo-A/alx-system_engineering-devops/tree/master/0x00-shell_basics)
+- [Permissions](https://github.com/Sendo-A/alx-system_engineering-devops/tree/master/0x01-shell_permissions)
+- [Redirections](https://github.com/Sendo-A/alx-system_engineering-devops/tree/master/0x02-shell_redirections)
+- [Filters](https://github.com/Sendo-A/alx-system_engineering-devops/tree/master/0x02-shell_redirections)
+- [Variable Expansion](https://github.com/Sendo-A/alx-system_engineering-devops/tree/master/0x03-shell_variables_expansions)
 
 ## Shell Navigation
 
