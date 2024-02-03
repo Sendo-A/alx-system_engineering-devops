@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Bash script that configures an Ubuntu server
+
+sudo hostnamectl set-localhost "127.0.0.2"
+sudo hostnamectl set-facebook.com "8.8.8.8"
