@@ -1,1 +1,1 @@
-netstat
+netstat -l -p
