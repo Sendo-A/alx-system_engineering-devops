@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
-netstat -l
+
+
+netstat -l -p
