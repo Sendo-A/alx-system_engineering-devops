@@ -1,5 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
+# Creates RSA key pair
 
-# Generate RSA key pair
-openssl genrsa -aes256 -passout pass:"betty" -out "school".key 4096
-openssl rsa -passin pass:"betty" -in "school".key -pubout -out "school".pub
+ssh-keygen -b 4096 -f school -t rsa -N betty
